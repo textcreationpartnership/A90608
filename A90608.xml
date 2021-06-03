@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition presented at a Common-Hall in London on Saturday last concerning the Kings Majesty, and the answer thereunto. Also a declaration of the Counties of Northampton, Leicester, and Rutland, and the forces they have raised. With a letter from Scotland and the acts which the Parliament there made, and the people sworn to maintain, concerning the Kingdome of Eogland[sic], and the proceedings of Duke Hamilton, and their forces comming into England.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90608</idno><idno type="EEBO-CITATION">99864556</idno>
+  <idno type="VID">161878</idno>
+  <idno type="EEBO-PROQUEST">2240905447</idno>
+  
+            <idno type="STC">Wing P1844</idno>
+            <idno type="STC">Thomason E449_35</idno>
+            <idno type="PROQUEST">99864556</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864556e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161878)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition presented at a Common-Hall in London on Saturday last concerning the Kings Majesty, and the answer thereunto. Also a declaration of the Counties of Northampton, Leicester, and Rutland, and the forces they have raised. With a letter from Scotland and the acts which the Parliament there made, and the people sworn to maintain, concerning the Kingdome of Eogland[sic], and the proceedings of Duke Hamilton, and their forces comming into England.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="personal_name">Hamilton, James Hamilton, --  Duke of, 1606-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Northampton (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Leicester (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Rutland (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161878:1"/>
+            <p>A PETITION Presented at a Common-Hall in LONDON On Satturday last concerning the KINGS MAJESTY, And the answer there<g ref="char:EOLhyphen"/>unto.</p>
+            <p>ALSO A Declaration of the Counties of <hi>Northampton, Leicester,</hi> and <hi>Rutland,</hi> and the Forces they have raised.</p>
+            <p>WITH A Letter from <hi>Scotland</hi> and the Acts which the Parliament there made, and the people sworn to maintain, concerning the Kingdome of Eogland, and the proceedings of Duke Hamilton, and of their Forces comming into England.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>B. A. Anno Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="collection_of_documents">
+            <pb facs="tcp:161878:2"/>
+            <pb n="1" facs="tcp:161878:2"/>
+            <div type="letter">
+               <head>
+                  <figure>
+                     <figDesc>royal blazon or coat of arms</figDesc>
+                     <head>C R</head>
+                  </figure> A LETTER From Scotland, and the Acts made in the Parliament there, published at their adjournment, with an oath to observe therein.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THe Parliament did break for two yeeres on the 10. of June, and have made as they call them these Acts</p>
+               <p n="1"> 1. That no Minister whatsoever doe presume publikely or privately to speake against this Engagement of the Parl. or D. <hi>Hamiltons</hi> proceedings, upon penalty to be dismissed of his place, his person imprisoned, and what person soever do pay unto such persons any stipend, shal be proceeded against as a ma<g ref="char:EOLhyphen"/>lignant, and his estate seized.</p>
+               <pb n="2" facs="tcp:161878:3"/>
+               <p n="2">2. That what Parl. man or Minister of Justice soever in this Kingdom, that will not joyn with them in this Engagement, shall lose his place▪ his person imprisoned, and means seized.</p>
+               <p n="3">3. An Oath to be given to all Parl. men, and others of what rank and quality soever, that they shall sweare to approve and con<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent to, and with their lives and for<g ref="char:EOLhyphen"/>tunes maintain any Act or Acts, and all the proceedings of this Parl. and this new Engagement: This power is by act given to the Committee o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Estates to execute, and the refusers to be procee<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed against with imprison<g ref="char:EOLhyphen"/>ment.</p>
+               <p>No provision of monies made for the Army, and when the question was asked the Duke how his Army must be maintained, he answered in Parl. <hi>Put the Lads a foot in England they will shift for themselves.</hi>
+               </p>
+               <p>Now if but incouragement from <hi>England</hi> come there is ten to one against the rising, but they want an head, and an opportunity to draw to a head, which will be effected by some force drawing to the North to in<g ref="char:EOLhyphen"/>gage <hi>Langdale:</hi> whereby these now raised in Scotland may be drawn away, and so <hi>Argyle</hi> have scope to array men.</p>
+               <p>Two of Duke <hi>Hamiltons</hi> Regiments are revolted from him, and have declared for the Marq. of <hi>Argyle</hi> and his party, being resolved to dissert the articles of engagement▪ against the levying of a War in oppositi<g ref="char:EOLhyphen"/>on to the proceedings of the Parliaments of both king<g ref="char:EOLhyphen"/>domes.</p>
+               <p>They have also secured the city and castle of Eden<g ref="char:EOLhyphen"/>burgh
+<pb n="3" facs="tcp:161878:3"/> for the well-affected party, which was former<g ref="char:EOLhyphen"/>ly under the power and command of Duke <hi>Hamilton,</hi> and are resolved to adventure lives and fortunes against all that shall endeavour to disturbe the peace and uni<g ref="char:EOLhyphen"/>ty of either Kingdoms.</p>
+            </div>
+            <div type="declaration">
+               <head>A <hi>Declaration of the Counties of</hi> Northampton, Liecester, <hi>and</hi> Rutland.</head>
+               <p>THe Right Honourable the Lord <hi>Grey</hi> coming downe into the county of <hi>Liecester,</hi> to further the settle<g ref="char:EOLhyphen"/>ment of the <hi>Militia</hi> there, the well affected party of that County met together, and considered of such ways and meanes, as might put the said county into such a posture, as should be for defence of themselves, and render them most serviceable to the peace and safety of the Kingdome, and Ashby-de-la-zouch being alrea<g ref="char:EOLhyphen"/>dy made a Garrison for the Parliament, they now a<g ref="char:EOLhyphen"/>greed for the raising of Horse and Foot, and came to this result.</p>
+               <p>That there should be raised in that County three hundred Horse and three hundred Dragoones to be di<g ref="char:EOLhyphen"/>vided into two Regiments, and four Regiments of foot, They also proceeded to make choice of a Commander
+<pb n="4" facs="tcp:161878:4"/> in chiefe, and for that made election of the Lord <hi>Grey.</hi> And in pursuance of this businesse monies was raised, and the Horse and Dragoons are raised, and the Foot compleating with all expedition.</p>
+               <p>The Gentlemen of that County have also sent Let<g ref="char:EOLhyphen"/>ters hereof to the Parliament, declaring their integrity and good affections to the Parliament, and their for<g ref="char:EOLhyphen"/>wardnesse to appear against the disturbers of the peace and quiet of the Kingdome, manifested by their renew<g ref="char:EOLhyphen"/>ing of the old quar<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell, and by deluding of the common sort of people, endeavour to bring ruine and destructi<g ref="char:EOLhyphen"/>on on the whole Kingdome, as experience sheweth by the present miseries which is thereby brought on <hi>Kent</hi> and <hi>Essex.</hi>
+               </p>
+               <p>Other Counties as well as this which have formerly felt the miseries of a Civill War, <hi>viz.</hi> Northampton<g ref="char:EOLhyphen"/>shire, Rutlandshire, and others, are putting themselves into the like posture, and desire that power may be gi<g ref="char:EOLhyphen"/>ven to such persons as they shall make choice of to command in chief, to grant Commission▪ to other Of<g ref="char:EOLhyphen"/>ficers, which are also made choice of by the Coun<g ref="char:EOLhyphen"/>try.</p>
+            </div>
+            <div type="narrative">
+               <head>
+                  <date>Die Sabbati 24. Juuij, 1648.</date>
+               </head>
+               <p>
+                  <hi>THis day according to the custome and char<g ref="char:EOLhyphen"/>ter of the city of</hi> London, <hi>there was a com<g ref="char:EOLhyphen"/>mon Hall, and for prevention of all insurrections,
+<pb n="5" facs="tcp:161878:4"/> a guard was set not only at Guild hall, but at the Gates of the City, and passages to the water side: there was this morning many Libels throwne into severall Halls where the Livery men met, one most invective against Major Gen.</hi> Skippon, <hi>and ano<g ref="char:EOLhyphen"/>ther calling the Army cruell, bloud▪ thirsty, &amp;c.</hi>
+               </p>
+               <p>
+                  <hi>At the meeting of the Livery of</hi> London <hi>at Guild-hall, they began with the work of the day,</hi> viz. <hi>the election of Sheriffs▪ and made choice of M. Gen.</hi> Brown, <hi>and Mr.</hi> Viner, <hi>a Goldsmith in Lum<g ref="char:EOLhyphen"/>bard-street.</hi>
+               </p>
+               <p>June 22. Letters from the Head-quarters say, That the Army is within pistol-shot of Coulchester walls, and are resolved to give no quarrer to the Enemy, being sorry that they offered them such honourable conditi<g ref="char:EOLhyphen"/>ons yesterday, which they have rejected.</p>
+               <p>By an Expresse from <hi>Scotland,</hi> it was this Evening certified to the, Committee at Derby house, that two Regiments of Duke <hi>Hamiltons</hi> have revolted from him to joyn with the Marq. of <hi>Argyle,</hi> and keeps two castles against <hi>Hamilton.</hi>
+               </p>
+               <pb facs="tcp:161878:5"/>
+               <p>After the debate of the Sheriffs a petition was pre<g ref="char:EOLhyphen"/>sented in the name of many well-affected Citizens which was grounded on these three heads <hi>viz.</hi> That there may be a personall treaty with the King, that the Hamblets and the Subburbs of the City may be setled as that of the City London is. And that liberty may be granted to the City to make adresses to his Maj. by way of accommodation.</p>
+               <p>This Petition was read and after some debate thereon answer was returned to this effect.</p>
+               <p>That the Lord Major Aldermen and Common-coun<g ref="char:EOLhyphen"/>cell, assembled on Thursday last had considered on the very same things mentioned in the two first clauses of this Petition and did agree to petition the Parl. for the same, and did then refer the businesse to a Committee of Aldermen and Commoners, to draw up a petition for that purpose to the Parliament; which petition would be ready to be presented on Thursday next at the fartheft. To the other perticular for addresses to the Kings answer, was returned thus. That a Common-councel should be called on Monday next, at the farthest and in the mean time any perticular man that hath any thing which he would have made known at that cōmon-councell should repair to the common-councel men of of their respective wards and acquaint him therewith, to to the end the court at their sitting may fully under<g ref="char:EOLhyphen"/>stand the agrievances of the city and do the best that in them lyes for redressing the same, and put their helping hand for effecting a lasting and well grounded peace, which gave good fatisfaction to petitioners and al peo<g ref="char:EOLhyphen"/>ple departed in an orderly and decent manner.</p>
+            </div>
+         </div>
+         <div type="license" subtype="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
